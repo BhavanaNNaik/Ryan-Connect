@@ -1,0 +1,12 @@
+.DS_Store
+scripts/vendor/vendor
+scripts/vendor/data/*
+issues/
+csc/
+base.php
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+.venv/

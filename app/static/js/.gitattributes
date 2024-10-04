@@ -1,0 +1,8 @@
+# Auto-detect text files and normalize their line endings
+* text=auto
+
+# Windows-style line endings
+*.py text eol=lf
+
+# Ignore virtual environment
+.venv/ export-ignore
